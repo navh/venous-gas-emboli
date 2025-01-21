@@ -16,5 +16,7 @@ https://github.com/dle4 is the lab's github page.
 
 Small sample of "synthetic dataset" available at https://doi.org/10.5061/dryad.xgxd254kp
 
-(noted with thanks)
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.xgxd254kp
+
+
 
